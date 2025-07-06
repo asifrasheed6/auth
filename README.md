@@ -67,3 +67,5 @@ Yes, SMS has flaws. But flipping the flow reduces attack surface. There's no inb
 
 ### “How would this scale?”
 It won’t, yet. This is an exploration into a pattern. With retries, observability, and fallback handling, it could be made production-ready.
+
+---

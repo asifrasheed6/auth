@@ -40,6 +40,8 @@ This repo explores a different approach using **stateless HMAC-based SMS verific
 - Stateless: No DB session, no expiry to manage
 - Signature tied to destination: Can't be reused elsewhere
 
+---
+
 # Limitations
 - No retry logic
 - No fallback
@@ -47,6 +49,8 @@ This repo explores a different approach using **stateless HMAC-based SMS verific
 - No expiration for signatures
 - No rate limiting or abuse prevention
 - Not GDPR/compliance reviewed
+
+---
 
 # FAQ
 ### “Isn't this just a weird OTP?”

@@ -69,3 +69,5 @@ Yes, SMS has flaws. But flipping the flow reduces attack surface. There's no inb
 It won’t, yet. This is an exploration into a pattern. With retries, observability, and fallback handling, it could be made production-ready.
 
 ---
+
+If you work on auth, mobile UX, or onboarding, I’d love to hear your thoughts. Would you trust this more than an OTP?
